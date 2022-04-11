@@ -24,12 +24,12 @@
                 <h1 class="text-center">Login</h1>
                 <div class="form-group">
                     <label for="email">Email:</label>
-                    <input class="form-control" type="email" name="email" id="email" placeholder="Enter Email" required>
+                    <input class="form-control" type="email" name="email" id="email" placeholder="Enter Email">
                 </div>
                 <div class="form-group">
                     <label for="password">Password: </label>
                     <input class="form-control" type="password" name="password" id="password"
-                        placeholder="Enter Password" required>
+                        placeholder="Enter Password">
                 </div>
                 <div class="d-flex justify-content-between">
                     <label for="remember-me">
